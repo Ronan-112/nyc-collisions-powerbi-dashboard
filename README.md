@@ -116,6 +116,7 @@ nyc-collisions-powerbi-dashboard/
 - Reconciling counts at each stage so the final dashboard can be trusted.
 - Data modelling with a date table, DAX measures and dynamic text.
 - Designing a dashboard for non-technical users, and showing data gaps openly.
+- report_image (https://github.com/Ronan-112/nyc-collisions-powerbi-dashboard/blob/main/Report.png)
 
 ## Author
 
